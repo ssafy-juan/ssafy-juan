@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, there 👋 I'm Juan.
+I love coding 💓 :hearts:
+
+### About Me
+- Blog: [My Github Blog](https://ssafy-juan.github.io.)
+
+---
+[![ssafy-juan's github stats](https://github-readme-stats.vercel.app/api?username=ssafy-juan)](https://github.com/anuraghazra/github-readme-stats)
