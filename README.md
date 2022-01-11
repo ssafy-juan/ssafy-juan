@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Juan.
+I love coding 💻
 
 <!--
 **ssafy-juan/ssafy-juan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi, there 👋 I'm Juan.
-I love coding 💓 :hearts:
 
 ### About Me
 - Blog: [My Github Blog](https://ssafy-juan.github.io.)
